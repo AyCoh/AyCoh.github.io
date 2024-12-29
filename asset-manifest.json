@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1fd96282.css",
-    "main.js": "/static/js/main.4fe04c4d.js",
+    "main.js": "/static/js/main.56df2a78.js",
     "static/media/WeddingVideo.mp4": "/static/media/WeddingVideo.cc0394dea1c4ef3df2f9.mp4",
     "static/media/IMG_6710.jpg": "/static/media/IMG_6710.aede57f9ded0a7b7ce89.jpg",
     "static/media/IMG_6750.jpg": "/static/media/IMG_6750.f285daa9d5d6fca0e084.jpg",
@@ -55,6 +55,6 @@
   },
   "entrypoints": [
     "static/css/main.1fd96282.css",
-    "static/js/main.4fe04c4d.js"
+    "static/js/main.56df2a78.js"
   ]
 }
